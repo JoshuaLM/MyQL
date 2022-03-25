@@ -1,0 +1,7 @@
+﻿  MyQL.cpp
+C:\Users\joshu\source\repos\MyQL\MyQL\MyQL.cpp(394,49): warning C4267: 'argument': conversion from 'size_t' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  MyQL.vcxproj -> C:\Users\joshu\source\repos\MyQL\x64\Debug\MyQL.exe

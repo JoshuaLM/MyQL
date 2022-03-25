@@ -1,0 +1,12 @@
+add [name] [value] [opt value]... - assigns possibly-multiple values to "name"
+clear [name] - sets database with name "name" to empty
+delete [name] [item] - deletes first instance of "item" from "name"
+display - displays all loaded databases
+insert [name] [value] [location] - inserts value into database "name" at location
+help - shows this help menu
+load [name] - loads file called "name"
+new [name] - creates a new database called "name"
+remove [name] - removes database called "name"
+save [name] - saves all current databases in file called "name"
+show [name] - displays database called "name"
+sort [name] - sorts database called "name" in increasing order
